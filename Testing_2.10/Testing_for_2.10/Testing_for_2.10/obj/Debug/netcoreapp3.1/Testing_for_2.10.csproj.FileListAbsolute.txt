@@ -1,0 +1,13 @@
+C:\Users\lenovo\Desktop\GIT\testing\Testing_2.10\Testing_for_2.10\Testing_for_2.10\bin\Debug\netcoreapp3.1\Testing_for_2.10.exe
+C:\Users\lenovo\Desktop\GIT\testing\Testing_2.10\Testing_for_2.10\Testing_for_2.10\bin\Debug\netcoreapp3.1\Testing_for_2.10.deps.json
+C:\Users\lenovo\Desktop\GIT\testing\Testing_2.10\Testing_for_2.10\Testing_for_2.10\bin\Debug\netcoreapp3.1\Testing_for_2.10.runtimeconfig.json
+C:\Users\lenovo\Desktop\GIT\testing\Testing_2.10\Testing_for_2.10\Testing_for_2.10\bin\Debug\netcoreapp3.1\Testing_for_2.10.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\GIT\testing\Testing_2.10\Testing_for_2.10\Testing_for_2.10\bin\Debug\netcoreapp3.1\Testing_for_2.10.dll
+C:\Users\lenovo\Desktop\GIT\testing\Testing_2.10\Testing_for_2.10\Testing_for_2.10\bin\Debug\netcoreapp3.1\Testing_for_2.10.pdb
+C:\Users\lenovo\Desktop\GIT\testing\Testing_2.10\Testing_for_2.10\Testing_for_2.10\obj\Debug\netcoreapp3.1\Testing_for_2.10.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\GIT\testing\Testing_2.10\Testing_for_2.10\Testing_for_2.10\obj\Debug\netcoreapp3.1\Testing_for_2.10.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\GIT\testing\Testing_2.10\Testing_for_2.10\Testing_for_2.10\obj\Debug\netcoreapp3.1\Testing_for_2.10.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\GIT\testing\Testing_2.10\Testing_for_2.10\Testing_for_2.10\obj\Debug\netcoreapp3.1\Testing_for_2.10.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\GIT\testing\Testing_2.10\Testing_for_2.10\Testing_for_2.10\obj\Debug\netcoreapp3.1\Testing_for_2.10.dll
+C:\Users\lenovo\Desktop\GIT\testing\Testing_2.10\Testing_for_2.10\Testing_for_2.10\obj\Debug\netcoreapp3.1\Testing_for_2.10.pdb
+C:\Users\lenovo\Desktop\GIT\testing\Testing_2.10\Testing_for_2.10\Testing_for_2.10\obj\Debug\netcoreapp3.1\Testing_for_2.10.genruntimeconfig.cache
