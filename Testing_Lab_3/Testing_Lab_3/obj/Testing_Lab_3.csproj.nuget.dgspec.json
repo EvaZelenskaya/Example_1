@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo\\Desktop\\Код\\c#\\Тестирование\\Testing\\Testing_Lab_3\\Testing_Lab_3\\Testing_Lab_3.csproj": {}
+    "C:\\Users\\lenovo\\Desktop\\GIT\\testing\\Testing_Lab_3\\Testing_Lab_3\\Testing_Lab_3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo\\Desktop\\Код\\c#\\Тестирование\\Testing\\Testing_Lab_3\\Testing_Lab_3\\Testing_Lab_3.csproj": {
+    "C:\\Users\\lenovo\\Desktop\\GIT\\testing\\Testing_Lab_3\\Testing_Lab_3\\Testing_Lab_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\Код\\c#\\Тестирование\\Testing\\Testing_Lab_3\\Testing_Lab_3\\Testing_Lab_3.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\GIT\\testing\\Testing_Lab_3\\Testing_Lab_3\\Testing_Lab_3.csproj",
         "projectName": "Testing_Lab_3",
-        "projectPath": "C:\\Users\\lenovo\\Desktop\\Код\\c#\\Тестирование\\Testing\\Testing_Lab_3\\Testing_Lab_3\\Testing_Lab_3.csproj",
+        "projectPath": "C:\\Users\\lenovo\\Desktop\\GIT\\testing\\Testing_Lab_3\\Testing_Lab_3\\Testing_Lab_3.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\Desktop\\Код\\c#\\Тестирование\\Testing\\Testing_Lab_3\\Testing_Lab_3\\obj\\",
+        "outputPath": "C:\\Users\\lenovo\\Desktop\\GIT\\testing\\Testing_Lab_3\\Testing_Lab_3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

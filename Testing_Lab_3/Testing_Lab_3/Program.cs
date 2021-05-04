@@ -6,18 +6,18 @@ namespace Testing_Lab_3
     {
         static void Main(string[] args)
         {
-            logic_B see2 = new logic_B();
+            Class see = new Class();
             Console.WriteLine("\r\n///////////////// Задание Б (C#) //////////////////// ");
-            see2.logic_();
+            see.zadaniye();
 
             Console.ReadKey();
         }
     }
    
-    class logic_B
+    class Class
     {
-        double y, x, d, c;
-        public void logic_() // метод
+        double y, x, d, c, a;
+        public void zadaniye() // метод
         {
             try
             {
@@ -35,26 +35,37 @@ namespace Testing_Lab_3
                 d = Convert.ToDouble(Console.ReadLine());
 
                 Console.Write("Введите c - ");
-
+               
                 c = Convert.ToDouble(Console.ReadLine());
+                
+                Console.Write("Введите a - ");
 
-                if (y == 0 && x >= 0 && x <= d) // 1 область
+                a = Convert.ToDouble(Console.ReadLine());
+
+
+               if ((x == -(y + c) ) && y == -x - c && -c < y )  // 1 область+
                 {
                     Console.Write("ОБЛАСТЬ №1: ");
                     Console.WriteLine("X = " + x + "; Y = " + y);
 
                 }
 
-                else if (x<=0 && x >= -d && y==(-d*x+c)) // 2 область
+                else if ((x<=0   &&    x>=-d )    &&    y==-c) // 2 область+
                 {
                     Console.Write("ОБЛАСТЬ №2: ");
                     Console.WriteLine("X = " + x + "; Y = " + y);
 
                 }
 
-                else if (x < -d && y == c) // 3 область
+                else if (x<=y+c    &&   x>0    &&   y ==x-c  &&   -c<y   &&   y<= a)  // 3 область ++
                 {
                     Console.Write("ОБЛАСТЬ №3: ");
+                    Console.WriteLine("X = " + x + "; Y = " + y);
+
+                }
+                else if (x>a+c  &&  y==a)  // 4 область ++
+                {
+                    Console.Write("ОБЛАСТЬ №4: ");
                     Console.WriteLine("X = " + x + "; Y = " + y);
 
                 }
